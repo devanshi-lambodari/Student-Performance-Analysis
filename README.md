@@ -1,6 +1,7 @@
-![Math Score Distribution](Math Score Distribution.png)
-
 # Student-Performance-Analysis
+
+![Math Score Distribution](Math_Score_Distribution.png)
+
 Performed exploratory data analysis using Pandas, Seaborn, and Matplotlib to identify trends, score distributions, and correlations between demographic factors and student academic performance.
 
 ## Objective
